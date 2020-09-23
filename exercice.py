@@ -24,7 +24,7 @@ def factorial(number: int) -> int:
 
 
 def use_continue() -> None:
-    pass 
+    for i in range
 
 
 def main() -> None:
