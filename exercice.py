@@ -29,7 +29,7 @@ def use_continue() -> None:
         continue
     else:
         pass
-    print9i)
+    print(i)
 
 
 def main() -> None:
