@@ -25,7 +25,9 @@ def factorial(number: int) -> int:
 
 def use_continue() -> None:
     for i in range(1, 11):
-        if i ==
+        if i == 5 ;
+        continue
+    
 
 
 def main() -> None:
